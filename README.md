@@ -1,12 +1,12 @@
 # Cybersecurity Journey
 
-I'm a Computer Technologies Engineering student at Tec de Monterrey, Puebla campus.
-I'm starting out in cybersecurity with a focus on blue team (SOC) and I'm looking for an internship in 2027.
+I am a Computer Technologies Engineering student focusing on Blue Team operations and SOC defense, working toward an internship in 2027. This repository documents my labs, write-ups, and security milestones.
 
-This repo is where I document what I learn: labs, write-ups, and small projects.
+## Certifications
+- **Introduction to Cybersecurity** – Cisco Networking Academy (Aug 2026) | [View Certificate](IntroductionToCybersecurity.pdf)
 
-## Progress
-
+## Learning Roadmap
+- [x] Cisco: Introduction to Cybersecurity
 - [x] TryHackMe: Offensive Security Intro
 - [ ] TryHackMe: Pre Security
 - [ ] TryHackMe: Cyber Security 101
